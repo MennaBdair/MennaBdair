@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Menna Bdair</h1>
+<h1 align="center">Hi, I'm Menna Bdair 👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Menna%20Bdair!%20%F0%9F%91%8B&fontSize=45)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> </p>
 
