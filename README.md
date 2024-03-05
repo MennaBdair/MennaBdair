@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennabdair" alt="mennabdair" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter & JavaScript**
 
 - 📫 How to reach me **menna.bdair2003@gmail.com**
@@ -21,4 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennabdair&show_icons=true&locale=en" alt="mennabdair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennabdair&" alt="mennabdair" /></p>
+
 
