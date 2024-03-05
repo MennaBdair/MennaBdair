@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Flutter & JavaScript**
 
 - 📫 How to reach me **menna.bdair2003@gmail.com**
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
