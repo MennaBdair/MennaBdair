@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+one&size=24&pause=1000&color=00F7B3&background=F8BBFF00&center=true&vCenter=true&random=false&width=435&lines=SCE+students;In+third+year+at+PTUK;Learning+any+thing)](https://git.io/typing-svg)
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> 
+<br>
 
 <br>
 </p>
