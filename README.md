@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menna Bdair</h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> </p>
 
 - 🌱 I’m currently learning **Flutter & JavaScript**
@@ -9,6 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/menna bdair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menna bdair" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/menna-bdair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="menna-bdair" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/menna bdair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="menna bdair" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
