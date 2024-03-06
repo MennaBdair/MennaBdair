@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Menna Bdair 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+one&size=24&pause=1000&color=00F7B3&background=F8BBFF00&center=true&vCenter=true&random=false&width=435&lines=SCE+students;In+third+year+at+PTUK;Learning+any+thing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7DC&random=false&width=435&lines=CSE+student;In+third+year+at+PTUK;just+keep+learning!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennabdair&label=Profile%20views&color=0e75b6&style=flat" alt="mennabdair" /> 
 <br>
